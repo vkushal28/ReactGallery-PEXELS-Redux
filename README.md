@@ -26,15 +26,19 @@ It will start your local server on port 3000
 
 Snapshots from my localhost 
 
-![alt text](https://github.com/vkushal28/ReactGridGallery-Pexels/blob/main/screenshots/1.png)
+![alt text](https://github.com/vkushal28/ReactGallery-PEXELS-Redux/blob/main/screenshots/1.png)
 
 - "Load more" button to fetch next page and add the new objects to main array
 
-![alt text](https://github.com/vkushal28/ReactGridGallery-Pexels/blob/main/screenshots/2.png)
+![alt text](https://github.com/vkushal28/ReactGallery-PEXELS-Redux/blob/main/screenshots/2.png)
 
 - A scroll to top button to directly go to top, and it always float above everything
 
-![alt text](https://github.com/vkushal28/ReactGridGallery-Pexels/blob/main/screenshots/3.png)
+![alt text](https://github.com/vkushal28/ReactGallery-PEXELS-Redux/blob/main/screenshots/3.png)
 
 ## Feel free to star this repo and open any issue or collaborate and make this repo a very good boilerplate for anyone (or atleast begineers)
 Drop me a [mail](mailto:vermakushal.28@gmail.com) or message on [instagram](https://www.instagram.com/kush2896/) if this repo has saved some of your time hustling here and there to find this content, also don't forget to share with others :)
+
+##References used:
+- https://github.com/neptunian/react-photo-gallery
+- https://codesandbox.io/s/8y7n1r9y5j?file=/index.js:506-557
