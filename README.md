@@ -39,6 +39,6 @@ Snapshots from my localhost
 ## Feel free to star this repo and open any issue or collaborate and make this repo a very good boilerplate for anyone (or atleast begineers)
 Drop me a [mail](mailto:vermakushal.28@gmail.com) or message on [instagram](https://www.instagram.com/kush2896/) if this repo has saved some of your time hustling here and there to find this content, also don't forget to share with others :)
 
-##References used:
+## References used:
 - https://github.com/neptunian/react-photo-gallery
 - https://codesandbox.io/s/8y7n1r9y5j?file=/index.js:506-557
